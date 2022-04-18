@@ -13,8 +13,4 @@ public class Peca {
     void trocaExistencia() {
         existe = !existe;
     }
-
-    //boolean mover(int novaLinha, char novaColuna) {
-
-    //}
 }
